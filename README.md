@@ -12,3 +12,5 @@ programming and problem-solving.
   - Master version control with Git
   - Develop strong problem-solving skills
   - - Build a portfolio of projects
+  ## My Favourite Project
+  - I don't know what you mean " Placeholder text"
